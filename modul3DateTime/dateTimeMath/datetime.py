@@ -54,7 +54,7 @@ print(new_date)
                                             # Работа с временными зонами
 # Для работы с временными зонами в Python используется модуль pytz (его нужно установить отдельно). 
 # Пример использования:
-import pytz
+# import pytz
 from datetime import datetime
 
 tz = pytz.timezone('Europe/Moscow')
